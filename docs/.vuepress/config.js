@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'Netlify CMS + VuePress',
-  description: 'Netlify + VuePress',
+  title: 'lwen',
+  description: 'lwen',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
+    repo: 'lwenxu/vue-blog',
     sidebar: [
       '/',
       '/welcome',
